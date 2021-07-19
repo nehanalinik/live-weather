@@ -19,7 +19,7 @@ let weather = {
     // Updating values from API to HTML
     document.querySelector(".city").innerText = "Weather in " + name;
     document.querySelector(".icon").src =
-      "https://openweathermap.org/img/wn/" + icon + ".png"; //using api icon of weather
+      "https://openweathermap.org/img/wn/" + icon + ".png"; //using weather icons from api
     document.querySelector(".description").innerText = description;
     document.querySelector(".temp").innerText = temp + "°C";
     document.querySelector(".humidity").innerText =

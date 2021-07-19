@@ -5,4 +5,3 @@
 
  Fetching the background image according to the location entered
  by using source.unsplash
- 

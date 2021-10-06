@@ -3,7 +3,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  /* Removing Scroll bar */
   margin: 0;
   background: #3c3c3c;
   font-family: "Open Sans", sans-serif;
